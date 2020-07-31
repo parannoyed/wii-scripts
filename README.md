@@ -6,6 +6,7 @@ Tested with Python 3.7.3. Your experience may vary with older versions.
 ## Requires
 * pycryptodome (https://pypi.org/project/pycryptodome) 
 * requests (https://pypi.org/project/requests/) 
+
 If you're new to python: `pip install pycryptodome` and `pip install requests`
 
 ## API
